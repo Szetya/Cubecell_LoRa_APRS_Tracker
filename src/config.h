@@ -53,8 +53,8 @@ String const MAIN_CALLSIGN = "N0CALL"; // Your Callsign
 #define P4_BEACON_SYMBOL  "-"
 #define P4_BEACON_OVERLAY "/"
 #define P4_BEACON_MESSAGE "Cubecell LoRa APRS"
-#define BEACON_LATITUDE   "4733.03N"           // your latitude N OR S UP TO 2 DECIMAL PLACES, APRS Notation Degrees°MM.MM
-#define BEACON_LONGITUDE  "01907.52E"          // your longitude W OR E UP TO 2 DECIMAL PLACES, APRS Notation Degrees°MM.MM
+#define BEACON_LATITUDE   "0000.00N"           // your latitude N OR S UP TO 2 DECIMAL PLACES, APRS Notation Degrees°MM.MM
+#define BEACON_LONGITUDE  "0000.00E"          // your longitude W OR E UP TO 2 DECIMAL PLACES, APRS Notation Degrees°MM.MM
 #define P4_SB_ACTIVE      false                // smart Beacon
 #define P4_BEACON_TIMEOUT 60                   // fixed Beacon interval in s if Smartbeacon inactive
 #define P4_CALLSIGN       MAIN_CALLSIGN + "-3" // your callsign
